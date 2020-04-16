@@ -93,5 +93,10 @@
     "name": "crisorg",
     "createdAt": 1587058277838,
     "address": "0x9001A69310590CDce1f860d5C2F3eEB7D35757D1"
+  },
+  {
+    "name": "cristest",
+    "createdAt": 1587068126261,
+    "address": "0x9001A69310590CDce1f860d5C2F3eEB7D35757D1"
   }
 ]
