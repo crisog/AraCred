@@ -282,6 +282,12 @@
       {
         "username": "cristest27",
         "aliases": 2
+      },
+      {
+        "username": "cristest28",
+        "aliases": [
+          null
+        ]
       }
     ],
     "repoIds": [
