@@ -298,6 +298,12 @@
       {
         "username": "cristest30",
         "aliases": 2
+      },
+      {
+        "username": "cristest31",
+        "aliases": [
+          "github/crisog"
+        ]
       }
     ],
     "repoIds": [
